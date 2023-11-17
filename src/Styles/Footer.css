@@ -1,0 +1,22 @@
+@import url('./App.css');
+
+#footer {
+    position: fixed;
+    color: grey;
+    background-color: black;
+    width: 100vw;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer>h5,
+#footer>a {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 0, 0.756);
+}
